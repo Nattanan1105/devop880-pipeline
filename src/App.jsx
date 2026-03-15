@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="KU_src.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          CI/CD Pipeline for React Web app <span className="heart">♥️</span> 
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
